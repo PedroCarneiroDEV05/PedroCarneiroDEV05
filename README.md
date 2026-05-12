@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pedro%20Henrique%20Carneiro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Front-end%20e%20Back-end%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
 </p>
 
-<h3 align="center">
-Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
-</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-carneiro-vasconcelos-b30270318/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,11 +21,13 @@ Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
 
 ## Sobre Mim
 
-Estudante de Ciência da Computação com foco em desenvolvimento backend, sistemas escaláveis e arquitetura de software.
+Meu nome é Pedro Carneiro e comecei a me interessar por tecnologia por causa dos videogames. Com o tempo, essa curiosidade virou vontade de entender como os sistemas funcionam e desenvolver meus próprios projetos.
 
-Atualmente desenvolvendo projetos utilizando Java, Python e tecnologias modernas para web, aplicando conceitos envolvendo autenticação, bancos de dados e desenvolvimento seguro de aplicações.
+Hoje estudo constantemente programação, engenharia de software, cibersegurança e inteligência artificial, desenvolvendo projetos full stack e aplicações utilizando principalmente Java e Python.
 
-Tenho interesse em engenharia de software, cibersegurança, inteligência artificial e desenvolvimento full stack moderno.
+Tenho interesse em desenvolvimento front-end e back-end, arquitetura de software, sistemas escaláveis, IA e tecnologias modernas para web.
+
+Estou sempre buscando aprender mais, criar projetos novos e evoluir cada vez mais na área de tecnologia.
 
 ---
 
