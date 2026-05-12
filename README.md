@@ -20,13 +20,6 @@ Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
   </a>
 </p>
 
-  <a href="mailto:pedrocarneiro.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://wa.me/5581994991194">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 
 ---
 
