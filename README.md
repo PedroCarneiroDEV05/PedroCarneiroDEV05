@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pedro%20Henrique%20Carneiro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Full%20Stack%20Java%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pedro%20Henrique%20Carneiro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Front-end%20e%20Back-end%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
 </p>
 
 <h3 align="center">
-Ciência da Computação • Full Stack Java • Cybersecurity Enthusiast
+Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
@@ -30,9 +30,9 @@ Ciência da Computação • Full Stack Java • Cybersecurity Enthusiast
 
 Estudante de Ciência da Computação com foco em desenvolvimento backend, sistemas escaláveis e arquitetura de software.
 
-Atualmente desenvolvendo projetos utilizando Java, Python e tecnologias modernas para web, aplicando conceitos envolvendo APIs REST, autenticação, bancos de dados e desenvolvimento seguro de aplicações.
+Atualmente desenvolvendo projetos utilizando Java, Python e tecnologias modernas para web, aplicando conceitos envolvendo autenticação, bancos de dados e desenvolvimento seguro de aplicações.
 
-Tenho interesse em engenharia backend, cibersegurança, arquitetura de software e aplicações com inteligência artificial.
+Tenho interesse em engenharia de software, cibersegurança, inteligência artificial e desenvolvimento full stack moderno.
 
 ---
 
@@ -47,16 +47,15 @@ Tenho interesse em engenharia backend, cibersegurança, arquitetura de software 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -70,12 +69,12 @@ Tenho interesse em engenharia backend, cibersegurança, arquitetura de software 
 
 ---
 
-## GitHub Analytics
+## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroCarneiroDEV05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroCarneiroDEV05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCarneiroDEV05&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroCarneiroDEV05&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -98,21 +97,14 @@ Tenho interesse em engenharia backend, cibersegurança, arquitetura de software 
 
 ## Foco Atual
 
-* Engenharia Backend
-* Aplicações Full Stack com Java
-* Desenvolvimento de APIs REST
+* Engenharia de Software
+* Desenvolvimento Front-end e Back-end
+* Aplicações Full Stack
 * Arquitetura de Software
-* Autenticação e Autorização
-* Aplicações Web Seguras
 * Segurança da Informação
-* Conceitos de Cibersegurança
-* Modelagem de Banco de Dados
-* Integrações com IA e LLMs
+* Cibersegurança
+* Inteligência Artificial e LLMs
 * Sistemas Escaláveis
-* Tecnologias Modernas para Backend
+* Tecnologias Modernas para Web
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedroCarneiroDEV05&style=for-the-badge&color=blueviolet"/>
 </p>
