@@ -7,7 +7,7 @@ Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-carneiro-b30270318/">
+  <a href="[https://www.linkedin.com/in/pedro-carneiro-b30270318/](https://www.linkedin.com/in/pedro-henrique-carneiro-vasconcelos-b30270318/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
