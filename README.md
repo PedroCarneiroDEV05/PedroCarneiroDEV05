@@ -7,7 +7,7 @@ Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/pedro-carneiro-b30270318/](https://www.linkedin.com/in/pedro-henrique-carneiro-vasconcelos-b30270318/)">
+  <a href="https://www.linkedin.com/in/pedro-henrique-carneiro-vasconcelos-b30270318/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -18,11 +18,15 @@ Ciência da Computação • Front-end e Back-end • Cybersecurity Enthusiast
   <a href="https://wa.me/5581994991194">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-
-  <a href="https://www.instagram.com/ph.carneiroo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
+
+  <a href="mailto:pedrocarneiro.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/5581994991194">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 
 ---
 
